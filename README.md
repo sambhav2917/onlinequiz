@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/iamrohitsuthar/Quizller/blob/master/images/icons/logo.png"/></p>
+
 
 <p align="center">
 <a href="https://github.com/iamrohitsuthar/Quizller/stargazers"><img src="https://img.shields.io/github/stars/iamrohitsuthar/Quizller"></a>
